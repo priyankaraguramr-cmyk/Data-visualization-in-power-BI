@@ -1,9 +1,10 @@
 # Data-visualization-in-power-BI
 Power BI Assignment 2 – DAX & Data Visualization
-Overview
+Project Overview:
 This assignment demonstrates the implementation of Power BI data modeling, DAX calculations, and interactive dashboard development using sales and target datasets. The objective was to transform raw business data into meaningful insights through calculated columns, measures, relationships, and visual reports.
+Dataset description:
 The solution includes data preparation, DAX-based calculations, KPI tracking, category-level analysis, geographic analysis, and sales performance monitoring.
-Project Objectives
+Project Objectives:
 The primary objectives of this assignment are:
 •	Import and prepare sales datasets in Power BI.
 •	Build a proper data model with relationships.
@@ -27,6 +28,7 @@ Contains transactional sales information including:
 •	Profit
 •	Quantity
 •	Profit Margin
+Tasks Completed
 Order Details
 Contains detailed order-level information used for advanced calculations and reporting.
 Sales Target
@@ -112,7 +114,7 @@ Visualizations
 •	Compares order volume across different states.
 Business Insight
 Provides visibility into regional sales performance and customer demand patterns.
-Key Findings
+Key learning:
 •	Sales performance varies across categories and sub-categories.
 •	Certain product groups contribute significantly higher profits.
 •	Geographic distribution reveals concentration of sales in specific regions.
@@ -133,7 +135,14 @@ The following deliverables were created as part of the assignment:
 •	Dashboard Screenshots
 •	Assignment Documentation
 •	GitHub Repository Documentation
+Tools Used:
+"PowertBI desktop"
+"Power Query Editor"
+"DAX (DATA Analysis Expressions)"
+"M Language"-used internally by Power Query
+Author:"Assignment:"
+PowerBI_Assignment1
+"suject:"Data Analysis-powerBI
+"Date:"june2026
 
-Conclusion
-This assignment successfully demonstrates the use of Power BI for business intelligence reporting. Through data modeling, DAX calculations, KPI development, and dashboard creation, raw sales data was transformed into meaningful insights that support business decision-making. The final solution provides a comprehensive view of sales performance, target achievement, profitability, and geographic distribution.
 
